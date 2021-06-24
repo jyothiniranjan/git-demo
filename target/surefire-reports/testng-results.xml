@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-12T12:55:18 IST" name="Suite" finished-at="2021-05-12T12:55:18 IST" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2021-05-12T12:55:18 IST" name="Test" finished-at="2021-05-12T12:55:18 IST" duration-ms="58">
+      <class name="Udemy_maven.udemy_java_maven.appium_test">
+        <test-method signature="demo()[pri:0, instance:Udemy_maven.udemy_java_maven.appium_test@2f465398]" started-at="2021-05-12T12:55:18 IST" name="demo" finished-at="2021-05-12T12:55:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:Udemy_maven.udemy_java_maven.appium_test@2f465398]" started-at="2021-05-12T12:55:18 IST" name="demo1" finished-at="2021-05-12T12:55:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- Udemy_maven.udemy_java_maven.appium_test -->
+      <class name="Udemy_maven.udemy_java_maven.restapi_test">
+        <test-method signature="demo()[pri:0, instance:Udemy_maven.udemy_java_maven.restapi_test@548e6d58]" started-at="2021-05-12T12:55:18 IST" name="demo" finished-at="2021-05-12T12:55:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:Udemy_maven.udemy_java_maven.restapi_test@548e6d58]" started-at="2021-05-12T12:55:18 IST" name="demo1" finished-at="2021-05-12T12:55:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- Udemy_maven.udemy_java_maven.restapi_test -->
+      <class name="Udemy_maven.udemy_java_maven.selenium_test">
+        <test-method signature="demo()[pri:0, instance:Udemy_maven.udemy_java_maven.selenium_test@313b2ea6]" started-at="2021-05-12T12:55:18 IST" name="demo" finished-at="2021-05-12T12:55:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:Udemy_maven.udemy_java_maven.selenium_test@313b2ea6]" started-at="2021-05-12T12:55:18 IST" name="demo1" finished-at="2021-05-12T12:55:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- Udemy_maven.udemy_java_maven.selenium_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
